@@ -2,9 +2,9 @@ package ru.nshi.learn.work0;
 
 import java.util.Scanner;
 
-class Task1 {
+public class task {
     public static void main(String[] args) {
-        Task1 task = new Task1();
+        task task = new task();
 
         Scanner input = new Scanner(System.in);
         System.out.print("Input number: ");
